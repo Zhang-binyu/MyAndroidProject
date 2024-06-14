@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">TodoList</string>
+    <string name="todo_item_title">default_title</string>
+    <string name="default_item_dead_line">default_dead_line</string>
+    <string name="todo_done_button_text">Done</string>
+    <string name="todo_list_title">Todo List</string>
+    <string name="add_button_text">+</string>
+    <string name="todo_edit_text_title">Todo title.</string>
+    <string name="todo_edit_text_content">Todo content.</string>
+    <string name="save_button_text">save</string>
+    <string name="cancel_button_text">cancel</string>
 </resources>
