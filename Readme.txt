@@ -1,5 +1,8 @@
 This folder contains some small projects of Jetpack Compose.
 
+2024.6.14
+I decided to use singleton pattern in the todo list app of the native android.
+
 2024.5.3
 Completed the calculator of the android native version.
 
@@ -21,5 +24,3 @@ The second todo list application use manual injection for dependency injection.
 
 2023.11.18
 My calculator uses the MVVM design pattern.
-
-
